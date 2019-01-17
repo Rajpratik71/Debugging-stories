@@ -1,4 +1,4 @@
-Debugging stories are fun! This is a collection of links to various debugging stories.
+# Debugging stories are fun! This is a collection of links to various debugging stories.
 
 [First Instance of Actual Computer Bug Being Found](http://www.computerhistory.org/tdih/september/9/)
 
@@ -109,7 +109,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Windows crash dump of nonsensical instruction](http://blogs.msdn.com/b/oldnewthing/archive/2014/12/26/10583035.aspx)
 
-## Contributors
+## 
 
 * Alexandros Tasos
 * Arthur Axel fREW Schmidt
@@ -139,6 +139,7 @@ Debugging stories are fun! This is a collection of links to various debugging st
 * Nathan Isom
 * Nikola Brežnjak
 * Pietro Menna
+* Pratik Raj
 * Rafik Draoui
 * Ramon Fried
 * Sean Cassidy
